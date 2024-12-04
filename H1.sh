@@ -1,6 +1,6 @@
 # Fix Multipass Client not Authenticated
 
-## Describe the bug for MACOS
+### Describe the bug for MACOS
 
 When trying to use multipass in any way on my MAC, for example:
 
@@ -69,7 +69,7 @@ removes all related files:
 
 - Reinstall Multipass with Homebrew:
    ```bash
-   brew install --cask multipass 
+   brew install --cask multipass
    ```
 
 After following these steps, everything works as expected.
